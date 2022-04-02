@@ -12,6 +12,8 @@ class Start
 		b.display2();
 		Burger b1=new Burger(8,130,"Burger");
 		b1.display2();
+		Burger b1=new Burger(8,130,"Burger");
+		b1.display2();
 	}
 
 }
